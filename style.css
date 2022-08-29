@@ -1,5 +1,5 @@
 :root{
-    background-color: rgb(255, 255, 255);
+    background-color: black(255, 255, 255);
     }
     title{font-family:sans-serif;
         margin-top:auto;
@@ -9,13 +9,13 @@
     li{
         padding-bottom: 3px;
         color: black(255, 255, 255);
-        text-shadow: 1.5px 1px 3px rgb(0, 0, 0);
+        text-shadow: 1.5px 1px 3px black(0, 0, 0);
         list-style-type: none;
     }
     
     p{
         color: rgb(255, 255, 255);
-        text-shadow: .5px .5px white;
+        text-shadow: .5px .5px black;
         text-align: center;
         font-size: xx-large;
         font-family: sans-serif;
@@ -24,7 +24,7 @@
     h2{
         font-family: sans-serif;
         margin-top: -.5rem;
-        color: rgb(0, 0, 0); 
+        color: black(0, 0, 0); 
     }
     input{
         text-align: center;
