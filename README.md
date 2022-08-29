@@ -5,7 +5,7 @@ This project is a code quiz.
 - JavaScript
 - CSS
 # Deployed Link
-- https://ShaniyaMann.github.io/wawa/
+- https://shaniyamann.github.io/wawa/
 
 # Author
 - Link to Github https://github.com/ShaniyaMann
