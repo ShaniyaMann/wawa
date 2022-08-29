@@ -1,5 +1,5 @@
 # wawa
-This project is a code quiz. 
+This project is a code quiz where we use javascript to animate and time the quiz.
 # Built With
 - HTML
 - JavaScript
